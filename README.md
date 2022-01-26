@@ -5,6 +5,28 @@ what is eJPT?
 The eLearnSecurity Junior Penetration Tester (eJPT) is a 100% practical certification on penetration testing and information security essentials. Bypassing the exam, a cybersecurity professional proves to employers they are ready for a rewarding new career.
 
 
+skills you need:
+
+    Protocol,Ip
+    DHCP, NAT
+    Routing --> https://www.grandmetric.com/2018/01/20/how-does-routing-table-work/ 
+    Dns --> https://www.acunetix.com/blog/articles/dns-zone-transfers-axfr/
+    Traffic flow (Wireshark) --> https://www.comparitech.com/net-admin/wireshark-cheat-sheet/ 
+    and Ports and Services --> https://www.stationx.net/common-ports-cheat-sheet/  
+
+The most tools useful for the exam:
+
+ 	- nmap
+ 	- gobuster or dirb
+ 	- burp suite
+ 	- nessus or other tool for Vulnerability Assessment
+ 	- mysql 
+ 	- sqlmap
+ 	- hydra
+ 	- enum4linux
+	- metasploit
+
+
 # condensed_notes
 
 ###  1- information gathering
