@@ -29,6 +29,10 @@ The most tools useful for the exam:
 
 # condensed_notes
 
+### routing:
+
+ip route add {NETWORK/MASK} via {GATEWAYIP}
+
 ###  1- information gathering
 
      help to Understand the target organization widen the attack surface and amount efficient and targeted attacks
@@ -212,7 +216,7 @@ System Attacks and Network Attacks:
 
 	unshadow <file> >  <file.txt>
 
-#### 4.3.5 -REC: 
+#### 4.3.5 -Remote Execution Command (REC): 
 
 	scp ssh@<host ip>/path file> 
 
@@ -286,11 +290,12 @@ Metasploit:
 
  
 #### Netcat 
-
+		
     Nc  <option>  <host>  <port> 
 
     Ex: nc -nlvp 127
-
+	
+usage: https://www.digitalocean.com/community/tutorials/how-to-use-netcat-to-establish-and-test-tcp-and-udp-connections 
  ________________________________________________________________
     
 Certification details: https://elearnsecurity.com/product/ejpt-certification/
@@ -302,5 +307,6 @@ resources I used, but not necessary to pass:
 1- TryHackMe:  https://tryhackme.com
     
 2- hackthebox :https://www.hackthebox.com
+3- ine (Penetration Testing Student) : https://my.ine.com
 
     
